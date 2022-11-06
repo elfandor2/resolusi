@@ -2,3 +2,5 @@
  - Konsisten belajar setiap hari
  - Membuat pengelolaan file coding
  - Membuat Website 
+ - Belajar C++
+ - Membuat Game
